@@ -14,15 +14,23 @@ I’m Khondzi Ntimbane, a recent graduate with a Bachelor's degree in Financial 
 
 ## 📂 Project Structure
 
-'''text
+```text
 /
 ├── index.html           # Main HTML file
 ├── style.css            # Custom stylesheet
 ├── Files/
 │   └── khondzi-cv.pdf   # Downloadable CV
 └── README.md            # This file
+💼 Projects
+Here are some featured projects included in the portfolio:
 
-🎯 Key Features
+Python Programming: Simple arithmetic operations using Python.
+
+Web Development: My first semantic HTML website.
+
+Database Design: SQL database creation and deletion basics.
+
+## 🎯 Key Features
 Fully semantic HTML structure
 
 Clean and responsive CSS
@@ -33,17 +41,17 @@ CV download link
 
 Links to external GitHub projects
 
-📱 Responsive Design
+## 📱 Responsive Design
 The website is mobile-friendly with a responsive navigation layout for smaller screens.
 
-📞 Contact Me
+## 📞 Contact Me
 Phone: +27 (725) 694-010
 
 Email: ntimbanekhondzi@gmail.com
 
 GitHub: github.com/ntimbane-khondzi
 
-📄 License
+## 📄 License
 This project is open-source and free to use for learning or as a reference.
 
 Built with ❤️ using pure HTML and CSS by Khondzi Ntimbane.
