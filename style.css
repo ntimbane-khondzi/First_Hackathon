@@ -1,0 +1,101 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 20px; /* Added spacing below header */
+}
+
+nav {
+  margin-top: 10px; /* Space between heading and nav links */
+}
+
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+a {
+  color: #0066cc; /* Global link style */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: style for back-to-top link */
+.back-to-top {
+  display: inline-block;
+  margin-top: 20px;
+  color: #333;
+  text-decoration: underline;
+}
+
+section {
+  margin: 40px 0;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.justified-text {
+  text-align: justify;
+}
+
+h2 {
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.project {
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 5px solid #333;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #333;
+  color: #fff;
+  margin-top: 40px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  h1, h2 {
+    font-size: 1.5rem;
+  }
+
+  .project {
+    padding: 10px;
+  }
+}
