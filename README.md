@@ -21,3 +21,29 @@ I’m Khondzi Ntimbane, a recent graduate with a Bachelor's degree in Financial 
 ├── Files/
 │   └── khondzi-cv.pdf   # Downloadable CV
 └── README.md            # This file
+
+🎯 Key Features
+Fully semantic HTML structure
+
+Clean and responsive CSS
+
+Accessible navigation and layout
+
+CV download link
+
+Links to external GitHub projects
+
+📱 Responsive Design
+The website is mobile-friendly with a responsive navigation layout for smaller screens.
+
+📞 Contact Me
+Phone: +27 (725) 694-010
+
+Email: ntimbanekhondzi@gmail.com
+
+GitHub: github.com/ntimbane-khondzi
+
+📄 License
+This project is open-source and free to use for learning or as a reference.
+
+Built with ❤️ using pure HTML and CSS by Khondzi Ntimbane.
